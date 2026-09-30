@@ -63,3 +63,6 @@ nmap -sS -sV -sC -O -p 22,80,443,8080 -oA network_recon_audit scanme.nmap.org
 - PORT 80/tcp OPEN (Service: Apache httpd 2.4.7 — HTTP Web Server "Go ahead and ScanMe!") — PASS
 - PORT 443/tcp CLOSED (Service: https — SSL/TLS Interface Inactive) — PASS
 - PORT 8080/tcp CLOSED (Service: http-proxy — No unauthorized proxy listener exposed) — PASS
+
+
+<img width="1910" height="1015" alt="DAST1" src="https://github.com/user-attachments/assets/f5bc3d9c-8186-42d5-bc32-3717cc38f9df" />
